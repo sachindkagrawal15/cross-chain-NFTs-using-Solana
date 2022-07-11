@@ -1,2 +1,1 @@
-# banksea-solana
-Banksea - cross-chain NFT based on Solana
+Cross-chain NFT based on Solana v1
